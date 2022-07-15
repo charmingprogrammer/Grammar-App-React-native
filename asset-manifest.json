@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/Grammar-App-React-native/static/js/app.2cb7e1dc.chunk.js",
+    "app.js.map": "/Grammar-App-React-native/static/js/app.2cb7e1dc.chunk.js.map",
+    "runtime~app.js": "/Grammar-App-React-native/static/js/runtime~app.54c97e4e.js",
+    "runtime~app.js.map": "/Grammar-App-React-native/static/js/runtime~app.54c97e4e.js.map",
+    "static/js/2.35b129b5.chunk.js": "/Grammar-App-React-native/static/js/2.35b129b5.chunk.js",
+    "static/js/2.35b129b5.chunk.js.map": "/Grammar-App-React-native/static/js/2.35b129b5.chunk.js.map",
+    "favicon-16.png": "/Grammar-App-React-native/favicon-16.png",
+    "favicon-32.png": "/Grammar-App-React-native/favicon-32.png",
+    "favicon.ico": "/Grammar-App-React-native/favicon.ico",
+    "index.html": "/Grammar-App-React-native/index.html",
+    "manifest.json": "/Grammar-App-React-native/manifest.json",
+    "serve.json": "/Grammar-App-React-native/serve.json",
+    "static/js/2.35b129b5.chunk.js.LICENSE.txt": "/Grammar-App-React-native/static/js/2.35b129b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.54c97e4e.js",
+    "static/js/2.35b129b5.chunk.js",
+    "static/js/app.2cb7e1dc.chunk.js"
+  ]
+}
